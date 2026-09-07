@@ -1,8 +1,8 @@
 {
   "x86_64-pc-windows-gnu": {
-    "0.1.0": ["https://github.com/exteraSquad/crulw-releases/releases/download/0.1.0/cruel-x86_64-pc-windows-gnu.exe", "c8ac5cef8540167159652e7e72ef4eb6ba1bcf2f88654708efc39c321f0fa647"]
+    "0.1.0": ["https://github.com/exteraSquad/crulw-releases/releases/download/0.1.0/cruel-x86_64-pc-windows-gnu.exe", "92b161f289b8e0403fbb70f82192cbf98b35b62fe4eee809e914b36426ee8072"]
   },
   "x86_64-unknown-linux-gnu": {
-    "0.1.0": ["https://github.com/exteraSquad/crulw-releases/releases/download/0.1.0/cruel-x86_64-unknown-linux-gnu", "baa000f2324304f30f7b20a0802d390794397b23f267030be302e68d05e84c25"]
+    "0.1.0": ["https://github.com/exteraSquad/crulw-releases/releases/download/0.1.0/cruel-x86_64-unknown-linux-gnu", "0dad8d1f994190e3610e2cc368757ea030621e1bd57e2de052b8e2350a28e93f"]
   }
 }
